@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ✨ React Starter Template 🌀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This template is the configuration from [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -39,32 +39,18 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+### `yarn format`
+
+Find and format files. You can specify what kinds of files you want to format or exclude any files, etc... in **package.json** scripts.
+
+**Note: When you use `git commit`, [Husky](https://typicode.github.io/husky/#/) will automatically format and fix your code if possible. If it fails to fix it, an error will occur to stop the commit. You can also change the rules of format in `.prettierrc.json` file**.
+
+### `yarn prepare`
+
+This script will run automatically so as to setup [Husky](https://typicode.github.io/husky/#/) when you install or add packages.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
