@@ -64,5 +64,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # License & copyright
 
-© Trần Trung Kiên, FPT University TP.HCM
+© Kirin Tran, FPT University TP.HCM
 Licensed under the [MIT LICENSE](LICENSE).
