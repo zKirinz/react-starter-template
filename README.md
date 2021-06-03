@@ -61,3 +61,8 @@ This script will run automatically so as to setup [Husky](https://typicode.githu
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# License & copyright
+
+© Trần Trung Kiên, FPT University TP.HCM
+Licensed under the [MIT LICENSE](LICENSE).
