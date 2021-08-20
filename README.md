@@ -1,4 +1,5 @@
 # ✨ React Starter Template 🌀
+<img src="./src/assets/images/preview.png" width="800" height="434" />
 
 ## Description
 This template is the configuration from [Create React App](https://github.com/facebook/create-react-app) 
@@ -9,6 +10,7 @@ with less dependencies and smart formater.
 - Remove redundant dependencies that small/medium apps may not need.
 - Integrate Babel, Eslint and Prettier for better code format. 
 - Provide Husky and Lint-staged auto pre-commit format to enhance code consistency.
+
 ## Available Scripts
 
 In the project directory, you can run:
